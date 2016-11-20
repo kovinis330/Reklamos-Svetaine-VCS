@@ -1,3 +1,3 @@
 # Reklamos-Svetaine-VCS.
-Paskutinis VSC projektas
-Demo: https://kovinis330.github.io/Reklamos-Svetaine-VCS/
+Paskutinis VCS projektas, reklamos svetainė.
+[Demo yra čia] (https://kovinis330.github.io/Reklamos-Svetaine-VCS/)
